@@ -1,0 +1,6 @@
+this file should include all the number to send the msg to
+xxxxxx
+xxxxxx
+xxxxxxx
+xxxxx
+xxxxx
